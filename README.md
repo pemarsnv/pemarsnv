@@ -1,10 +1,8 @@
-### hello, bonjour, 你好!
+### hello, bonjour, 你好! 🦖
 
-My name is Pema and I'm a 21 years old CS engineering student •ᴗ•
-I am currently enrolled at INSA Toulouse  (National Institute of Applied Sciences) in my 4th year
+my name is pema and i'm a 21 years old cs engineering student •ᴗ• <br>
+i am currently enrolled at [INSA Toulouse](https://www.insa-toulouse.fr/en) (National Institute of Applied Sciences) in my 4th year <br>
 
-![me core](https://github.com/pemarsnv/pemarsnv/blob/main/img.gif)
-
-
-
-
+<br>
+<div align="center"> <img src="https://github.com/pemarsnv/pemarsnv/blob/main/img.gif" alt="me core" height=120> </div>
+<br>
