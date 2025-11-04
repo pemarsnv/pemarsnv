@@ -9,4 +9,8 @@ i am pema, a 21 years old computer science engineering student •ᴗ• <br>
 <div align="center"> <img src="https://github.com/pemarsnv/pemarsnv/blob/main/img.gif" alt="me core" height=150> </div>
 <br>
 
-![my top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pemarsnv&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemarsnv&layout=compact&card_width=350" height="300">
+   &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=pemarsnv&show_icons=true&card_width=350" height="165">
+</div>
