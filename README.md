@@ -9,8 +9,4 @@ i am pema, a 21 years old computer science engineering student •ᴗ• <br>
 <div align="center"> <img src="https://github.com/pemarsnv/pemarsnv/blob/main/img.gif" alt="me core" height=150> </div>
 <br>
 
-## languages 💻​
-
 ![my top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pemarsnv&layout=compact)
-
-## projects 🛠️
