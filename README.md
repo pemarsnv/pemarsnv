@@ -1,4 +1,4 @@
-### hello, bonjour, 你好! 🦖
+### hello, bonjour, 你好, こんにちは! 🦖
 
 i am pema, a 21 years old computer science engineering student •ᴗ• <br>
 
