@@ -2,7 +2,8 @@
 
 i am pema, a 21 years old computer science engineering student •ᴗ• <br>
 
-📝​ currently enrolled at [INSA Toulouse](https://www.insa-toulouse.fr/en) (National Institute of Applied Sciences) in the [GEI department](https://gei.insa-toulouse.fr/en/index.html) <br>
+📝​ enrolled at [INSA Toulouse](https://www.insa-toulouse.fr/en) (National Institute of Applied Sciences) in the [GEI department](https://gei.insa-toulouse.fr/en/index.html) <br>
+✈️ currently an exchange student at [NYCU Hsinchu](https://www.nycu.edu.tw/nycu/en/index) <br>
 🎓 graduated in 2024 from the [IUT of Rangueil](https://iut.univ-tlse3.fr/bachelor-specialite-informatique) (University Technical Institute) with a bachelor in CS <br>
 
 <br>
